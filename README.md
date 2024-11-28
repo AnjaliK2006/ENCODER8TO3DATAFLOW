@@ -62,7 +62,7 @@ Developed by: Anjali K RegisterNumber: 24900073
 
 
 **RESULTS**
-
+Thus the Encoder 8 to 3 in the Dataflow Modelling is designed and the truth table is verified using Quartus software.
 
 
 
